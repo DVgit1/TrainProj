@@ -1,0 +1,1 @@
+Docker, GIT, Intellij IDEA, JAVA, node js., postman, db json., eclipse, selenium webdriver

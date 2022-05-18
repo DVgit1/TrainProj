@@ -1,0 +1,1 @@
+java, selenium WebDriver, docker, maven, eclipse

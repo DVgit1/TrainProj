@@ -1,0 +1,1 @@
+jira/confluence, testrail, test&feedback, postman, slenium IDE, ChromePath, XPath
